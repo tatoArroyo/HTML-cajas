@@ -1,0 +1,61 @@
+.about{
+    background-image:url(../ASSETS/img/playa.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    width: 1500px;
+    height: 1300px;
+    margin-top: 30;
+}
+.body {
+    background-color: #66ff99;
+}
+.navbar.navbar-expand-lg.bg-secondary{
+    background: #b1b0b0;
+}
+i.fa-brands.fa-linkedin.fa-2x1:hover{
+    color: rgb(84, 165, 247);
+}
+i.fa-brands.fa-instagram.fa-2x1:hover{
+    color:rgb(218, 159, 246);
+}
+i.fa.solid.fa.user.fa-2x1:hover{
+    color:rgb(146, 61, 185)
+}
+.list.group{
+ --bs-list-group-bg:transparent;   
+}
+section.about{
+    font-size: medium;
+}
+section.adminis{
+    margin-top: 4rem;
+    margin-right: 6rem;
+}    
+/*Seccion-1*/
+section.name {
+    background-size: 100%;
+    background-color: rgb(55, 138, 14);
+}
+/*Seccion-2*/
+section.about-me {
+    Background-color: rgb(55, 138, 14);
+    margin-left: 30em;
+}
+/*Seccion-3*/
+section.estudios {
+    Background-color: rgb(55, 138, 14);
+    margin-left: 5rem;
+}
+/*Seccion-4*/
+section.Experiencia {
+    Background-color: rgb(55, 138, 14);
+}
+/*Seccion-5*/
+section.skills{
+    Background-color: rgb(55, 138, 14);
+}
+seccion.panel{
+    margin-top: 25rem;
+    padding: top 20px;
+}
